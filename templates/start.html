@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Saved Words
+{% endblock %}
+
+{% block main %}
+        <table class="table table-sm">
+            <thead>
+                <tr class="bg-info">
+                    <th class="text-start">Words</th>
+                    <th class="text-start">Notes</th>
+                    <th class="text-start">Date</th>
+                    <th class="text-start">Time Saved (GMT +0)</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for row in rows %}
+                <tr class="table-primary">
+                    <td class="text-start">{{row.words}}</td>
+                    <td class="text-start">{{row.notes}}</td>
+                    <td class="text-start">{{row.date}}</td>
+                    <td class="text-start">{{row.time}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+{% endblock %}
