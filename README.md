@@ -1,4 +1,4 @@
-# Beginner English Dictionary
+# English Dictionary for Beginners
 #### Video Demo:  https://youtu.be/LPDmERXKvmo
 #### Description:
 
