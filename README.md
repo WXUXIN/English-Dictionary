@@ -5,7 +5,7 @@
 **Hello World!**
 
 
-The title for my final project is Beginner English Dictionary. The purpose of this web application is to allow amateur english learners to search for words, and notes related to the word that they saved and store them in a database. Allowing them to view all their saved words and notes at a later time!
+The title for my final project is "English Dictionary for beginners". The purpose of this web application is to allow amateur english learners to search for words and save them onto the web application with thier own notes. Allowing them to view all their saved words and notes at a later time!
 
 I used flask to run this web application. The first folder "flask_session" is to store all the sessions from all the users of the website. The static folder contains file "styles.css" that stores all the CSS code to beautify the website, books.jpg is the image I used for all of the background of the website.
 
