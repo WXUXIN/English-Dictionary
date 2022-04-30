@@ -5,10 +5,9 @@
 **Hello World!**
 
 
-The title for my final project is "English Dictionary for beginners". The purpose of this web application is to allow amateur english learners to search for words and save them onto the web application with thier own notes. Allowing them to view all their saved words and notes at a later time!
+The title for my final project is "English Dictionary for beginners". The purpose of this web application is to allow amateur english learners to search for words and save them onto the web application with thier own notes, allowing them to view all their saved words and notes at a later time!
 
 I used flask to run this web application. The first folder "flask_session" is to store all the sessions from all the users of the website. The static folder contains file "styles.css" that stores all the CSS code to beautify the website, books.jpg is the image I used for all of the background of the website.
-
 
 
 In templates folder, it contains 11 html files that makes up the website.
@@ -46,8 +45,8 @@ requirements.txt includes all the modules needed to run this web application use
 
 The following were some of the design difficulty:
 
-1.) I had a difficult time centering all of the elements in all of the pages, especially on the search.html page where I had to reposition the save word div multiple times till I got the position i wanted
+1.) I had a difficult time centering all of the elements in all of the pages, especially on the search.html page where I had to reposition the save word div multiple times till I got the position I wanted.
 
 2.) The background of the pages also took me a long while to find as it was difficult to find a background that I liked and also suitable for a website.
 
-3.) Lastly it was difficult to actually design the logout button as i wanted it to be at the right side of the page and it took me a long while to actually find out how to do it
+3.) Lastly it was difficult to actually design the logout button as i wanted it to be at the right side of the page and it took me a long while to actually find out how to do it.
