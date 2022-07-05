@@ -1,5 +1,5 @@
 # English Dictionary for Beginners
-#### Video Demo:  https://youtu.be/LPDmERXKvmo
+
 #### Description:
 
 **Hello World!**
